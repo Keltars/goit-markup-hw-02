@@ -1,0 +1,172 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #2e2f42;
+  background-color: #fff;
+}
+
+a {
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo {
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.17;
+}
+
+.logo-web {
+  color: #4d5ae5;
+}
+
+.navigation-list {
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.link-studio:hover {
+  color: #404bbf;
+}
+
+.link-portfolio:hover {
+  color: #404bbf;
+}
+
+.link-contacts:hover {
+  color: #404bbf;
+}
+
+.link-mail {
+  color: #434455;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.link-mail:hover {
+  color: #404bbf;
+}
+
+.link-phone {
+  color: #434455;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.link-phone:hover {
+  color: #404bbf;
+}
+
+.sec-one {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  width: 496px;
+}
+
+.button-text {
+  color: #fff;
+  font-weight: 500;
+}
+
+button {
+  cursor: pointer;
+  display: inline-flex;
+  padding: 16px 32px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 4px;
+  background-color: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+button:hover {
+  background: #404bbf;
+}
+
+.strategy-container {
+  display: flex;
+  width: 264px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.punctuality-container {
+  display: flex;
+  width: 264px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.diligence-container {
+  display: flex;
+  width: 264px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.technologies-container {
+  display: flex;
+  width: 264px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.sec-two p {
+  color: #434455;
+  line-height: 1.5;
+}
+
+.sec-three {
+  background-color: #f4f4fd;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.sec-three p {
+  color: #434455;
+  line-height: 1.5;
+}
+
+.sec-four p {
+  color: #434455;
+  line-height: 1.5;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+.logo-studio {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  color: #f4f4fd;
+  width: 264px;
+}
