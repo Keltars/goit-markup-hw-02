@@ -27,28 +27,15 @@ ul {
   color: #2e2f42;
 }
 
-.navigation-list {
+.head-link {
   color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
-}
-
-.link-studio {
   letter-spacing: 0.02em;
 }
 
-.link-studio:hover,
-.link-studio:focus {
-  color: #404bbf;
-}
-
-.link-portfolio:hover,
-.link-portfolio:focus {
-  color: #404bbf;
-}
-
-.link-contacts:hover,
-.link-contacts:focus {
+.head-link:hover,
+.head-link:focus {
   color: #404bbf;
 }
 
@@ -56,23 +43,14 @@ ul {
   font-style: normal;
 }
 
-.link-mail {
+.contact-type {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.link-mail:hover,
-.link-mail:focus {
-  color: #404bbf;
-}
-
-.link-phone {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.link-phone:hover,
-.link-phone:focus {
+.contact-type:hover,
+.contact-type:focus {
   color: #404bbf;
 }
 
@@ -91,7 +69,6 @@ ul {
 
 .but {
   cursor: pointer;
-  padding: 16px 32px;
   background-color: #4d5ae5;
   color: #fff;
   font-family: "Roboto", sans-serif;
@@ -106,6 +83,7 @@ ul {
 }
 
 .sec-title {
+  color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
